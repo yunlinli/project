@@ -1,0 +1,15 @@
+--2020-10-03 15:15:17--  https://www.google.ca/imgres?imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F736230%2Fpexels-photo-736230.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D1%26w%3D500
+Resolving www.google.ca (www.google.ca)... 172.217.212.94, 2607:f8b0:4001:c03::5e
+Connecting to www.google.ca (www.google.ca)|172.217.212.94|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.google.ca/imghp [following]
+--2020-10-03 15:15:17--  https://www.google.ca/imghp
+Reusing existing connection to www.google.ca:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘imgres?imgurl=https:%2F%2Fimages.pexels.com%2Fphotos%2F736230%2Fpexels-photo-736230.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500’
+
+                  imgres?imgurl=htt     [<=>                                                                ]       0  --.-KB/s               imgres?imgurl=https:%2F%2Fimages.pe     [ <=>                                                               ]  11.56K  --.-KB/s    in 0s      
+
+2020-10-03 15:15:17 (48.3 MB/s) - ‘imgres?imgurl=https:%2F%2Fimages.pexels.com%2Fphotos%2F736230%2Fpexels-photo-736230.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500’ saved [11842]
+
